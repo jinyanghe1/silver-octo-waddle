@@ -1,0 +1,5 @@
+[课程网站](https://pdos.csail.mit.edu/6.828/2021/schedule.html)
+[课程视频,详情见网站](https://www.youtube.com/watch?v=L6YqHxYHa7A)
+[课程教材](https://pdos.csail.mit.edu/6.828/2021/xv6/book-riscv-rev2.pdf)
+[课程作业](https://pdos.csail.mit.edu/6.828/2023/schedule.html)
+[操作系统导论](https://weread.qq.com/web/reader/db8329d071cc7f70db8a479)

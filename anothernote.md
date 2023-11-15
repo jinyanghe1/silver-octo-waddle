@@ -1,0 +1,1 @@
+[note from lec.1](https://pdos.csail.mit.edu/6.828/2021/lec/l-overview.txt)
